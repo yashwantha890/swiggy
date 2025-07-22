@@ -1,3 +1,3 @@
-# FSD
-Full stack development
+# Swiggy
+Online food delivery application
 
